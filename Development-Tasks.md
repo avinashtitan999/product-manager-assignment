@@ -1,0 +1,4 @@
+- Design backend API for image scan results
+- Develop UI components for image list and severity filters
+- Integrate vulnerability scanner
+- Store scan history and analytics

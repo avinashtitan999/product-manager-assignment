@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "cluster": "minikube",
+        "scanner": "kubescape"
+    },
+    "results": [
+        {
+            "control": "Privileged Containers",
+            "status": "fail",
+            "severity": "high"
+        },
+        {
+            "control": "Run as Root",
+            "status": "warn",
+            "severity": "medium"
+        },
+        {
+            "control": "Non-Root User",
+            "status": "pass",
+            "severity": "low"
+        }
+    ]
+}
